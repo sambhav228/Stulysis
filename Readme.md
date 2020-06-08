@@ -9,4 +9,4 @@ All this data islogged in the database and the user is given a receipt number fo
 
 ### Student Login page
 
-![screenshot_1]()
+![screenshot_1](https://github.com/sambhav228/Student_Performance_Analysis/blob/master/Data%20base/login-page.jpg)
