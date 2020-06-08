@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+footer{text-align:center;  color:black; background-color:#D4AC0D  ; border:solid #D4AC0D  ;padding: 8px 37px;
+  margin: 8px 0;width: 90%}
+
+input[type=text], input[type=password] {
+  width: 95%;
+  padding: 12px 20px;
+  margin: 10px 10px ;
+  display: inline-block;
+  border: none;
+  background: #D3D3D3;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+ 
+  outline: none;
+}
+
+Hr {
+  border: 1px solid #D3D3D3;
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+
+
+
+ .signupbtn {
+  float: center;
+  width: 50%;
+}
+
+
+.container {
+  padding: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+span.lgn {
+  float: left;
+  padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+   .signupbtn {
+     width: 100%;
+  }
+}
+</style>
+<body>
+<body style="background-color:#48C9B0 ">
+
+
+<form action="signup.jsp"  solid #D3D3D3">
+  <div class="centered">
+  <footer>
+  <p style="color:black; text-align:center; font-size:25px;font-family: sans-serif"><b>Student Performance Analysis</b></p>
+ 
+ </footer>
+
+
+  <div class="container">
+    <h1>Sign Up</h1>
+    <p>Please fill this form to create an account.</p>
+    <Hr>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+   
+  <label for="fname"><b>Full Name</b></label>
+    <input type="text" placeholder="Enter Full Name " name="fname" required>
+
+
+<label for="Uname"><b>User Name</b></label>
+    <input type="text" placeholder="Enter User Name " name="uname" required>
+   
+    <label for="MobNo"><b>Mobile Number</b></label>
+    <input type="text" placeholder="Enter Mobile Number " name="mobno" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="password" required>
+
+   
+      <center>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </center>
+  <span class="lgn">Have an account? <a href="login.html">Login</a></span>
+  </div>
+ </div>
+</form>
+
+</body>
+</html>

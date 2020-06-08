@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body {font-family: Arial, Helvetica, sans-serif;}
+header{text-align:center;  color:black; background-color:#D4AC0D   ; border:solid #D4AC0D   ;padding: 14px 20px;
+  margin: 8px 0;width: 90%}
+footer{text-align:center;  color:black; background-color:#D4AC0D  ; border:solid #D4AC0D  ;padding: 10px 37px;
+  margin: 8px 0;width: 90%}
+
+textDIV1 {
+  text-align: justify;
+  text-align-last:start;
+font-size:25px;
+font-family: Times New Roman;
+ 
+}
+
+textDIV2 {
+  text-align: center;
+  text-align-last:start;
+font-size:25px;
+font-family: Times New Roman;
+ 
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.student {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+span.sgup {
+  float: right;
+  padding-top: 16px;
+}
+
+
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+ 
+}
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+  background-color: #D3D3D3;
+}
+
+.right {
+  right: 0;
+  background-color: #48C9B0 ;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="split left">
+   
+   
+<footer>
+  <p style="color:black; text-align:center; font-size:25px;font-family: Times New Roman"><b>Student Performance Analysis</b></p>
+ 
+ </footer>
+
+
+<div class="textDIV1">
+  <p  style="font-size:25px;
+font-family: Times New Roman">
+  This web site will automate user’s activities, processes and practices,
+ as well as increase their ability to handle a greater capacity of events.  
+This is an efficient Student Performance Analysis web site serves the functionality of an event management.</p>
+
+ 
+  </div>
+<div class="textDIV2">
+  <p  style="font-size:25px;
+font-family: Times New Roman">
+  This web site allows the registered users to login and new users to register on this web site.
+  This web site provides most of the basic functionality required for an event.
+  And by this the event management for a user will be on their finger tips.
+ So this helps the user to manage their events in a user friendly manner.
+
+ 
+
+  </div>
+
+</div>
+
+
+<form action="login.jsp" method="post">
+ 
+<div class="split right">
+  <div class="centered">
+<header>
+  <p style="color:black; text-align:center; font-size:25px;font-family: Times New Roman"><b>Student Performance Analysis</b></p>
+ 
+ </header>
+<h2>Login Form</h2>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="password" required>
+       
+    <button type="submit">Login</button>
+
+ <span class="sgup">Dont have account? <a href="signup.html">SignUp</a></span>
+
+    <span class="psw">Forgot <a href="forgotpassword.html">Password?</a></span>
+  </div>
+  </div>
+  </div>
+</form>
+   
+         
+</body>
+</html> 
