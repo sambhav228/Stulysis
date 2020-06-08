@@ -7,4 +7,6 @@ allows only registered users to login and new users are allowed to register on t
 All this data islogged in the database and the user is given a receipt number for his booking. This data isthen sent to the admin and they may interact with the client as per his requirements and hiscontact data stored in the database.
 
 
+### Student Login page
+
 ![screenshot_1]()
