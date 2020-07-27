@@ -7,6 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## STUDENT CODE-IN
 
@@ -55,7 +56,7 @@ This project is licensed under the MIT License - you can see [LICENSE](https://g
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Sambhav Thakur](https://www.linkedin.com/in/sambhav228//)**                                                                                                                                        |
 |<a href="https://www.linkedin.com/in/sambhav228/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
-[![GitHub followers](https://img.shields.io/github/followers/sambhav228.svg?label=Follow%20@sambhav228&style=social)](https://github.com/sambhav228/)|
+[![Twitter Follow](https://img.shields.io/twitter/follow/sambhav228?style=social)](https://twitter.com/sambhav228)|
 
 > **_Need Any help?_** 
 > **_Feel free to contact me @ [sambhavkumar228@gmail.com](mailto:sambhavkumar228@gmail.com?Subject=Stulysis)_**
