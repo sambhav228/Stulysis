@@ -10,6 +10,7 @@
 
 
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![GitHub issues](https://img.shields.io/github/issues/sambhav228/.Stulysis.svg)](https://github.com/sambhav228/Stulysis/issues)
 
 ## STUDENT CODE-IN
 
