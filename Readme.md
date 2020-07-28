@@ -31,6 +31,8 @@ A System which will analyze students performance through participating in differ
 
 ## ⭐ How to get started?
 
+Go checkout [CONTRIBUTING.md](https://github.com/sambhav228/Stulysis/blob/master/CONTRIBUTING.md) for the same. It containes all the steps for you to follow and get started.
+
 You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck: 
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
