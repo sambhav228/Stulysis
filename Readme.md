@@ -1,6 +1,6 @@
 # Stulysis
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!--[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<!-- ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) -->
 [![GitHub issues](https://img.shields.io/github/issues/sambhav228/Stulysis.svg)](https://github.com/sambhav228/Stulysis/issues)
 
 ## STUDENT CODE-IN
