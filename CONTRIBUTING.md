@@ -14,6 +14,39 @@ We love your input! We want to make contributing to this project as easy and tra
 3. Submitting a fix
 4. Proposing new features
 
+# Steps to follow:
+
+### 1. Fork this repository to your account
+### 2. Clone your forked repository
+```
+git clone https://github.com/<your-github-username>/Stulysis.git
+```
+
+### 3. Move into the repository
+```
+cd Stulysis
+```
+
+### 4. Setup your remote from the main repository
+```
+git remote add main https://github.com/sambhav228/Stulysis.git
+```
+
+### 5. Make a new branch
+> Never push changes from your **master** branch. Always make a new branch and then push your changes.
+```
+git checkout -b name-a-new-branch-here
+```
+
+### 5. Make relevant changes for your contribution
+```
+git add .
+git commit -m "suitable-commit-message-comes-here"
+git push origin new-branch-name-here
+```
+
+### 6. That's it. Make a pull request now!
+
 # We Develop with Github
 
 We use github to host code, to track issues and feature requests, as well as accept pull requests.

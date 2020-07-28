@@ -1,6 +1,6 @@
 # Stulysis
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!--[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<!-- ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) -->
 [![GitHub issues](https://img.shields.io/github/issues/sambhav228/Stulysis.svg)](https://github.com/sambhav228/Stulysis/issues)
 
 ## STUDENT CODE-IN
@@ -30,6 +30,8 @@ Student Code-In is a global program that helps students grow with Open Source Co
 A System which will analyze students performance through participating in different events and gaining knowledge in those as a outcome for students. Starting From Registering in event to completing mock test based on event . This will mainly check a student Performance after completing any workshop or events.
 
 ## ⭐ How to get started?
+
+Go checkout [CONTRIBUTING.md](https://github.com/sambhav228/Stulysis/blob/master/CONTRIBUTING.md) for the same. It containes all the steps for you to follow and get started.
 
 You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck: 
 
