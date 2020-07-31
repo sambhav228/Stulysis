@@ -12,3 +12,9 @@ Issue tracker is ONLY used for reporting bugs.
 2.
 3.
 4.
+
+## Context (Environment)
+
+## Detailed Description
+
+## Possible Implementation
