@@ -1,6 +1,6 @@
 Fixes # (issue)
 
-## Type of change
+## Types of changes
 
 Please delete options that are not relevant.
 
