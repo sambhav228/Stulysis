@@ -1,4 +1,4 @@
-# Contributing Guidelines 👼🏽 👩🏽‍💻 👇🏽
+# Contributing Guidelines🏽‍💻 👇🏽
 
 We are extremely excited to have you onboard with our project. We hope to see some great contributions from your end and thank you all for making this project successful. hugs
 
