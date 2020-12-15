@@ -10,7 +10,6 @@ Issue tracker is ONLY used for reporting bugs.
 
 1.
 2.
-3.
 
 
 ## Context (Environment)
